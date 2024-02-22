@@ -1,7 +1,7 @@
 - 👋 Hi, @imkomali
-- 👀 I’m interested in exploring and learning new things
-- 🌱 I’m currently learning Data Science with Machine Learning Systems
-- 💞️ I’m looking to collaborate on Datascience projects
+- 👀 I’m interested in exploring data and learning new things
+- 🌱 I’m currently learning Data Science with Machine Learning Systems and Data Analysis
+- 💞️ I’m looking to collaborate on Datascience and Data Analytics projects
 - 📫 How to reach me komalikandulas123@gmail.com
 
 <!---
